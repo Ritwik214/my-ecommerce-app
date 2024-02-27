@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//Ritwik214.github.io/my-ecommerce-app/static/css/main.d0ae997e.css",
+    "main.js": "//Ritwik214.github.io/my-ecommerce-app/static/js/main.903f41ba.js",
+    "index.html": "//Ritwik214.github.io/my-ecommerce-app/index.html",
+    "main.d0ae997e.css.map": "//Ritwik214.github.io/my-ecommerce-app/static/css/main.d0ae997e.css.map",
+    "main.903f41ba.js.map": "//Ritwik214.github.io/my-ecommerce-app/static/js/main.903f41ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0ae997e.css",
+    "static/js/main.903f41ba.js"
+  ]
+}
